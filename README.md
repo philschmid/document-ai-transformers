@@ -9,10 +9,14 @@ This repository contains different example and tutorials on how to get started w
 * [_WIP_ fine-tuning donut with SROIE]()
 
 **Inference**
+* _TODO:_
 
 **Data-processing**
 
 * [convert FUNSD to donut document for vqa](./data_processing/FUNSD_for_Donut.ipynb)
+
+**Demos/Spaces**
+* _TODO:_
 
 popular models are layoutlm.... 
 and Donut which we will use today get a first impression of how you can build you own document AI System using Hugging Face Transformers.
