@@ -52,7 +52,7 @@ Document AI includes the following use cases and tasks:
 | [CORD](https://github.com/clovaai/cord)    | information extraction/parsing  | [naver-cola-ix/cord-v2](https://huggingface.co/datasets/naver-clova-ix/cord-v2) |
 | [DocVQA](https://www.docvqa.org/)    | visual question answering  | [_load manually_](https://rrc.cvc.uab.es/?ch=17&com=downloads) |
 | [WildReceipt](https://paperswithcode.com/dataset/wildreceipt)    | fdocument parsing | [Theivaprakasham/wildreceipt](https://huggingface.co/datasets/Theivaprakasham/wildreceipt) |
-| [TableBank](https://doc-analysis.github.io/tablebank-page/index.html) |  table detection/layout analysis | [_load manually_]((https://doc-analysis.github.io/tablebank-page/index.html)) |
+| [TableBank](https://doc-analysis.github.io/tablebank-page/index.html) |  table detection/layout analysis | [_load manually_](https://doc-analysis.github.io/tablebank-page/index.html) |
 | [DocBank](https://doc-analysis.github.io/docbank-page/index.html)    |  table detection/layout analysis | [_load manually_](https://doc-analysis.github.io/docbank-page/index.html) |
 | [ReadingBank](https://github.com/doc-analysis/ReadingBank)    | table detection/layout analysis  | [_load manually_](https://github.com/doc-analysis/ReadingBank) |
 | [EATEN](https://github.com/beacandler/EATEN)    | document parsing  | [_load manually_](https://github.com/beacandler/EATEN) |
