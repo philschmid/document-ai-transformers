@@ -3,6 +3,8 @@
 
 [Document AI](https://en.wikipedia.org/wiki/Document_AI) is a term that became popular over last 3 years and defines machine learning models, tasks and techniques to classify, parse, extract informations from documents in digital and print forms, like invoices, receipts, licenses, contracts, business reports...
 
+![logo](./assets/logo.png)
+
 This repository contains different example and tutorials on how to get started with Document AI and Transformers. Below you can also find a compendium of available models, tasks, datasets and other resources.
 
 **Training**
@@ -16,7 +18,17 @@ This repository contains different example and tutorials on how to get started w
 * [convert FUNSD to donut document for vqa](./data_processing/FUNSD_for_Donut.ipynb)
 
 **Demos/Spaces**
-* _TODO:_
+
+Community: 
+* [fedihch/InvoiceReceiptClassifierDemo](https://huggingface.co/spaces/fedihch/InvoiceReceiptClassifierDemo)
+* [nielsr/LayoutLMv2-FUNSD](https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD)
+* [katanaml/LayoutLMv2-CORD](https://huggingface.co/spaces/katanaml/LayoutLMv2-CORD)
+* [nielsr/TrOCR-handwritten](https://huggingface.co/spaces/nielsr/TrOCR-handwritten)
+* [keras-io/ocr-for-captcha](https://huggingface.co/spaces/keras-io/ocr-for-captcha)
+* [nielsr/dit-document-layout-analysis](https://huggingface.co/spaces/nielsr/dit-document-layout-analysis)
+* [PatrickTyBrown/LoanDocumentClassifier](https://huggingface.co/spaces/PatrickTyBrown/LoanDocumentClassifier)
+* [Theivaprakasham/layoutlmv2_invoice](https://huggingface.co/spaces/Theivaprakasham/layoutlmv2_invoice)
+* [TMsp/invoice_processing_layoutlmv3_custom](https://huggingface.co/spaces/Msp/invoice_processing_layoutlmv3_custom)
 
 popular models are layoutlm.... 
 and Donut which we will use today get a first impression of how you can build you own document AI System using Hugging Face Transformers.
@@ -50,12 +62,12 @@ Document AI includes the following use cases and tasks:
 | Dataset                                                                   | Task                                      |                        Hugging Face Datasets                          |
 |-------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------------|
 | [SROIE](https://github.com/zzzDavid/ICDAR-2019-SROIE) | document parsing | [darentang/sroie](https://huggingface.co/datasets/darentang/sroie/blob/main/sroie.py) |
-| [RVL-CDIP](https://huggingface.co/datasets/rvl_cdip) | document-classification | [rvl_cdip](https://huggingface.co/datasets/rvl_cdip) |
+| [RVL-CDIP](https://huggingface.co/datasets/rvl_cdip) | document classification | [rvl_cdip](https://huggingface.co/datasets/rvl_cdip) |
 | [XFUND](https://github.com/doc-analysis/XFUND)   | document parsing |[ranpox/xfund](https://huggingface.co/datasets/ranpox/xfund) | 
 | [FUNSD](https://guillaumejaume.github.io/FUNSD/)    | document parsing  | [nielsr/funsd](https://huggingface.co/datasets/nielsr/funsd) |
 | [CORD](https://github.com/clovaai/cord)    | information extraction/parsing  | [naver-cola-ix/cord-v2](https://huggingface.co/datasets/naver-clova-ix/cord-v2) |
 | [DocVQA](https://www.docvqa.org/)    | visual question answering  | [_load manually_](https://rrc.cvc.uab.es/?ch=17&com=downloads) |
-| [WildReceipt](https://paperswithcode.com/dataset/wildreceipt)    | fdocument parsing | [Theivaprakasham/wildreceipt](https://huggingface.co/datasets/Theivaprakasham/wildreceipt) |
+| [WildReceipt](https://paperswithcode.com/dataset/wildreceipt)    | document parsing | [Theivaprakasham/wildreceipt](https://huggingface.co/datasets/Theivaprakasham/wildreceipt) |
 | [TableBank](https://doc-analysis.github.io/tablebank-page/index.html) |  table detection/layout analysis | [_load manually_](https://doc-analysis.github.io/tablebank-page/index.html) |
 | [DocBank](https://doc-analysis.github.io/docbank-page/index.html)    |  table detection/layout analysis | [_load manually_](https://doc-analysis.github.io/docbank-page/index.html) |
 | [ReadingBank](https://github.com/doc-analysis/ReadingBank)    | table detection/layout analysis  | [_load manually_](https://github.com/doc-analysis/ReadingBank) |
