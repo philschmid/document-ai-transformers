@@ -72,6 +72,8 @@ Document AI includes the following use cases and tasks:
 | [DocBank](https://doc-analysis.github.io/docbank-page/index.html)    |  table detection/layout analysis | [_load manually_](https://doc-analysis.github.io/docbank-page/index.html) |
 | [ReadingBank](https://github.com/doc-analysis/ReadingBank)    | table detection/layout analysis  | [_load manually_](https://github.com/doc-analysis/ReadingBank) |
 | [EATEN](https://github.com/beacandler/EATEN)    | document parsing  | [_load manually_](https://github.com/beacandler/EATEN) |
+| [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet)    | table detection/layout analysis  | [jordanparker6/publaynet](https://huggingface.co/datasets/jordanparker6/publaynet) |
+| [ICDAR2019_cTDaR](https://github.com/cndplab-founder/ICDAR2019_cTDaR)    | table detection/layout analysis  | [_load manually_](https://cndplab-founder.github.io/cTDaR2019/dataset-training.html) |
 
 
 ### APIs and existing Solutuions
