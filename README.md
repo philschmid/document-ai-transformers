@@ -29,6 +29,8 @@ Community:
 * [PatrickTyBrown/LoanDocumentClassifier](https://huggingface.co/spaces/PatrickTyBrown/LoanDocumentClassifier)
 * [Theivaprakasham/layoutlmv2_invoice](https://huggingface.co/spaces/Theivaprakasham/layoutlmv2_invoice)
 * [TMsp/invoice_processing_layoutlmv3_custom](https://huggingface.co/spaces/Msp/invoice_processing_layoutlmv3_custom)
+* [Epoching/DocumentQA](https://huggingface.co/spaces/Epoching/DocumentQA)
+* [impira/docquery](https://huggingface.co/spaces/impira/docquery)
 
 popular models are layoutlm.... 
 and Donut which we will use today get a first impression of how you can build you own document AI System using Hugging Face Transformers.
