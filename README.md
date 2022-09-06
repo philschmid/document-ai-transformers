@@ -1,14 +1,14 @@
 # Document AI with Hugging Face Transformers
 
 
-[Document AI](https://en.wikipedia.org/wiki/Document_AI) is a term that became popular over last 3 years and defines machine learning models, tasks and techniques to classify, parse, extract informations from documents in digital and print forms, like invoices, receipts, licenses, contracts, business reports...
+[Document AI](https://en.wikipedia.org/wiki/Document_AI) s a term that has become popular over the last 3 years. It defines machine learning models, tasks, and techniques to classify, parse, and extract information from documents in digital and print forms, like invoices, receipts, licenses, contracts, and business reports.
 
 ![logo](./assets/logo.png)
 
 This repository contains different example and tutorials on how to get started with Document AI and Transformers. Below you can also find a compendium of available models, tasks, datasets and other resources.
 
 **Training**
-* [_WIP_ fine-tuning donut with SROIE]()
+* [fine-tuning donut with SROIE](./training/donut_sroie.ipynb)
 
 **Inference**
 * _TODO:_
