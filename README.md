@@ -10,10 +10,12 @@ This repository contains different example and tutorials on how to get started w
 **Training**
 * [fine-tuning donut with SROIE](./training/donut_sroie.ipynb)
 * [fine-tuning LayoutLM with FUNSD](./training/layoutlm_funsd.ipynb)
+* [fine-tuning LiLT with FUNSD](./training/lilt_funsd.ipynb)
 
 **Inference**
-* [Donut](./training/donut_inference.ipynb)
-* [LayoutLM](./training/layoutlm_inference.ipynb)
+* [Donut](./inference/donut_inference.ipynb)
+* [LayoutLM](./inference/layoutlm_inference.ipynb)
+* [LayoutLM](./inference/lilt_inference.ipynb)
 
 **Data-processing**
 
