@@ -15,7 +15,7 @@ This repository contains different example and tutorials on how to get started w
 **Inference**
 * [Donut](./inference/donut_inference.ipynb)
 * [LayoutLM](./inference/layoutlm_inference.ipynb)
-* [LayoutLM](./inference/lilt_inference.ipynb)
+* [LiLT](./inference/lilt_inference.ipynb)
 
 **Data-processing**
 
